@@ -1,8 +1,8 @@
 # Market-Analysis-for-Online-Store
-## Objective
+## Introduction
  This project comprehensively analyzes various aspects of Group A and Group B's e-commerce performance. We begin by examining cumulative revenue and average order size trends for both groups, drawing valuable insights and formulating hypotheses based on the data. Additionally, we explore the relative differences in cumulative order size, conversion rates, and user order behaviour, all while identifying anomalies in user behaviour and order prices. The project delves deeper into statistical significance testing, first using raw data and then filtered data, to evaluate differences in conversion rates and average order sizes between the two groups. Through these multifaceted analyses, we aim to better understand e-commerce dynamics, identify trends, and make data-driven decisions. conclusions and hypotheses.
 
-## Description of dataset
+## Datasets
 
 Hypotheses — brief descriptions of the hypotheses
 
@@ -25,6 +25,7 @@ Orders — brief descriptions of the orders
 -revenue — from the order
 
 -group — the A/B test group that the user belongs to
+
 ## Previews
 
 ![image](https://github.com/kaizermm/Market-Analysis-for-Online-Store/assets/121756502/84aac51e-0261-4f1a-9af3-32d7d9b59fed)
