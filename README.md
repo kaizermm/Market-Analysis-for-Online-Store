@@ -26,6 +26,13 @@ Orders — brief descriptions of the orders
 
 -group — the A/B test group that the user belongs to
 
+## Table of contents
+1. Load and Processing data
+2. Prioritizing Hypotheses
+3. A/B Test Analysis
+   
+   
+
 ## Previews
 
 ![image](https://github.com/kaizermm/Market-Analysis-for-Online-Store/assets/121756502/84aac51e-0261-4f1a-9af3-32d7d9b59fed)
