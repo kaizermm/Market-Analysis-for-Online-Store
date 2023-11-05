@@ -30,8 +30,12 @@ Orders — brief descriptions of the orders
 1. Load and Processing data
 2. Prioritizing Hypotheses
 3. A/B Test Analysis
-   
-   
+## Conclusion and further improvement
+Conclusion:
+The analysis reveals that Group B outperforms Group A in terms of conversion rate, demonstrating statistical significance. However, there's no substantial difference in average order size. The data suggests that continuing the test is unnecessary, as Group B consistently excels in both conversion rate and average order size.
+
+Improvement Area:
+To further enhance the test's effectiveness, consider exploring strategies to optimize average order size for both groups.
 
 ## Previews
 
